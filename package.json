@@ -17,5 +17,5 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://arthurfoucher.github.io/semanticui-react-demo"
+  "homepage": "https://arthurfoucher.github.io/SemanticUI-react-demo/"
 }
