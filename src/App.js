@@ -39,7 +39,7 @@ class App extends Component {
                   <Input icon="lock" type="password" iconPosition="left" />
                 </Form.Field>
                 <Button type="submit" color="blue">
-                  Login
+                  Sign Up
                 </Button>
               </Form>
             </Grid.Column>

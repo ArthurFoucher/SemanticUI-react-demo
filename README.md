@@ -1,4 +1,4 @@
-This is a dummy longin/signup page using Semantic-UI-React.
+This is a dummy login/signup page using Semantic-UI-React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
